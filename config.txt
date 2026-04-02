@@ -1,0 +1,5 @@
+cinema_name=Мегаполис Кино
+default_brightness=85
+default_volume=75
+log_level=INFO
+timezone=UTC+3
